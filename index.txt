@@ -1,0 +1,14 @@
+div {
+    animation: example 0.5s infinite;
+}
+
+/* Add keyframes for the animation */
+@keyframes example {
+    from {
+        /* initial state */
+    }
+
+    to {
+        /* final state */
+    }
+}   
